@@ -6,7 +6,6 @@
   <br />
   Passionate about building efficient, scalable backend solutions and clean user interfaces.
   <br />
-  Currently based in Concordia, Argentina.
 </p>
 
 ---
