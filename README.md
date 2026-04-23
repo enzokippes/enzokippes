@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="<img width="1024" height="351" alt="image" src="https://private-user-images.githubusercontent.com/123987316/582904983-c87f37da-fc28-43cc-a700-7d39b3bb8abf.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5NzI2MDEsIm5iZiI6MTc3Njk3MjMwMSwicGF0aCI6Ii8xMjM5ODczMTYvNTgyOTA0OTgzLWM4N2YzN2RhLWZjMjgtNDNjYy1hNzAwLTdkMzliM2JiOGFiZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyM1QxOTI1MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzg4Yzc0ZmVkOTgyMTU0OTkxODc0ZmMxM2MyYTc3ZTgzYmYzYTljNWYxOWJkZDcyYzk2ZDRiZWNkOGM3NjAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.06zmm9l_VuQ7DOAHmC6ZIVJXEHfLxGdE4uTlOvAh3zE" />
-" width="100%" alt="Enzo Kippes - Developer" />
+  <img src="https://private-user-images.githubusercontent.com/123987316/582904983-c87f37da-fc28-43cc-a700-7d39b3bb8abf.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5NzI2MDEsIm5iZiI6MTc3Njk3MjMwMSwicGF0aCI6Ii8xMjM5ODczMTYvNTgyOTA0OTgzLWM4N2YzN2RhLWZjMjgtNDNjYy1hNzAwLTdkMzliM2JiOGFiZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyM1QxOTI1MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzg4Yzc0ZmVkOTgyMTU0OTkxODc0ZmMxM2MyYTc3ZTgzYmYzYTljNWYxOWJkZDcyYzk2ZDRiZWNkOGM3NjAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.06zmm9l_VuQ7DOAHmC6ZIVJXEHfLxGdE4uTlOvAh3zE" width="100%" alt="Enzo Kippes - Developer" />
 </p>
 <p align="center">
   <strong>Programming Student at UTN</strong> | <strong>Full-Stack Developer</strong>
   <br />
   Passionate about building efficient, scalable backend solutions and clean user interfaces.
   <br />
+  Currently based in Concordia, Argentina.
 </p>
 
 ---
