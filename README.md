@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://flagicons.lipis.dev/flags/4x3/ar.svg" width="30" alt="Argentina Flag" />
   <h1 align="center" style="border-bottom: none;">Enzo Kippes</h1>
-  <p align="center">Developer</p>
+  <h2 align="center" style="border-bottom: none;">Developer</h2>
   <br />
 </div>
 <p align="center">
